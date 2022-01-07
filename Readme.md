@@ -13,8 +13,6 @@ Table of contents
 * [Usage](#Usage)
 * [Notes](#Notes)
 * [Author](#Author)
-* [Support](#Support)
-
 
 Status
 ----
@@ -119,8 +117,9 @@ python convert.py
 >3. Using AHK to convert AHK file to EXE file with icon.
 
 
-Author
 
+Author
+----
 [Calisfed](https://github.com/calisfed/)
 
 
