@@ -1,11 +1,11 @@
 
 
-##Introduction
+Introduction
 -----
 This project was created for users who want to write Greek letters, Latin alphabet with accent, or some emojis by using Latex notation.
 
 
-##Table of contents
+Table of contents
 -----
 * [Status]($Status)
 * [Inspiration](#Inspiration)
@@ -16,26 +16,26 @@ This project was created for users who want to write Greek letters, Latin alphab
 * [Support](#Support)
 
 
-##Status
+Status
 ----
 `Version` : `0.0`
 
 >I created this project for my personal use. So not sure if I gonna update this in the future.
 
-##Inspiration
+Inspiration
 ----
 
 This project getting the idea from [clarkgrubb's Latex input](https://github.com/clarkgrubb/latex-input)
 
 
 
-##Installation
+Installation
 ----
 Download Latex.exe and install it in your Startup folder. Open the Startup folder in File Explorer by pressing Cmd+R and entering shell:startup. The input method will run the next time you log in. You can also start it by double-clicking it in File Explorer.
 
 If you have AutoHotkey installed, you can download and install Latex.ahk instead.
 
-##Usage
+Usage
 ----
 
 Type backslash, then follow by the completion sequence(s), finish with SPACE or TAB.
@@ -79,7 +79,7 @@ Most of them are on [Julia Unicode input](https://docs.julialang.org/en/v1/manua
 
 
 
-##Notes
+Notes
 -----
 **The input method starts in an Activate state.** Use Ctrl+Alt+L to toggle between active and inactive. Or you can change it in Latex.ahk file by fixing this line:
 ```bash
@@ -119,7 +119,7 @@ python convert.py
 >3. Using AHK to convert AHK file to EXE file with icon.
 
 
-##Author
+Author
 
 [Calisfed](https://github.com/calisfed/)
 
