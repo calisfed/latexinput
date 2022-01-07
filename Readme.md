@@ -7,7 +7,7 @@ This project was created for users who want to write Greek letters, Latin alphab
 
 Table of contents
 -----
-* [Status]($Status)
+* [Status](#Status)
 * [Inspiration](#Inspiration)
 * [Installation](#Installtion)
 * [Usage](#Usage)
