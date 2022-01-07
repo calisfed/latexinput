@@ -58,8 +58,8 @@ Examples:
 
 |Julia      |This project|Character|
 |:-:|:-:|:-:|
-|\\:teapot: |\\:teapot  |🫖         |
-|\\:olive:  |\\:olive   |🫒         |
+|<pre>\\:teapot:</pre>|\\:teapot  |🫖         |
+|<pre>\\:olive:</pre>|\\:olive   |🫒         |
 
 I also added some Latin alphabet with accent. Examples:
 
@@ -71,7 +71,8 @@ I also added some Latin alphabet with accent. Examples:
 |\\bar{O}   | Ō |
 |\\'N     | Ń |
 
-All of these completion sequences and characters can be found in **unicode.csv**
+All of these completion sequences and characters can be found in **unicode.csv**.
+
 Most of them are on [Julia Unicode input](https://docs.julialang.org/en/v1/manual/unicode-input/).
 
 
