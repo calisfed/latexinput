@@ -4,14 +4,17 @@ import os
 import progress.bar as Bar
 
 
-df = pd.read_csv(r'C:\Users\V\Desktop\latex\unicode.csv')
+df = pd.read_csv(r'unicode.csv')
 f = open("Latex.txt","w")
 bar =  Bar.ChargingBar('Processing', max = len(df))
 
 
 # row[0] vào đây
 def unicode(code):
-    code = 'Send {' + code + '}'
+    if len(code) == 7:
+        code = 'Send {' + code + '}'
+    else:
+        code = 'Send {' + code[:7] + '}\n' + 'Send {' + code[10:] + '}'
     return code
 
 # row[3],4,5 vào đây

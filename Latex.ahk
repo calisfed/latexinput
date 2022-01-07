@@ -2479,7 +2479,8 @@ Send {U+02242}
 return
 
 :Zc?:\neqsim::
-Send {U+02242 + U+00338}
+Send {U+02242}
+Send {U+00338}
 return
 
 :Zc?:\simeq::
@@ -2531,7 +2532,8 @@ Send {U+0224E}
 return
 
 :Zc?:\nBumpeq::
-Send {U+0224E + U+00338}
+Send {U+0224E}
+Send {U+00338}
 return
 
 :Zc?:\bumpeq::
@@ -2539,7 +2541,8 @@ Send {U+0224F}
 return
 
 :Zc?:\nbumpeq::
-Send {U+0224F + U+00338}
+Send {U+0224F}
+Send {U+00338}
 return
 
 :Zc?:\doteq::
@@ -2651,7 +2654,8 @@ Send {U+02268}
 return
 
 :Zc?:\lvertneqq::
-Send {U+02268 + U+0FE00}
+Send {U+02268}
+Send {U+0FE00}
 return
 
 :Zc?:\gneqq::
@@ -2659,7 +2663,8 @@ Send {U+02269}
 return
 
 :Zc?:\gvertneqq::
-Send {U+02269 + U+0FE00}
+Send {U+02269}
+Send {U+0FE00}
 return
 
 :Zc?:\ll::
@@ -2667,7 +2672,8 @@ Send {U+0226A}
 return
 
 :Zc?:\NotLessLess::
-Send {U+0226A + U+00338}
+Send {U+0226A}
+Send {U+00338}
 return
 
 :Zc?:\gg::
@@ -2675,7 +2681,8 @@ Send {U+0226B}
 return
 
 :Zc?:\NotGreaterGreater::
-Send {U+0226B + U+00338}
+Send {U+0226B}
+Send {U+00338}
 return
 
 :Zc?:\between::
@@ -2755,7 +2762,8 @@ Send {U+0227E}
 return
 
 :Zc?:\nprecsim::
-Send {U+0227E + U+00338}
+Send {U+0227E}
+Send {U+00338}
 return
 
 :Zc?:\succsim::
@@ -2763,7 +2771,8 @@ Send {U+0227F}
 return
 
 :Zc?:\nsuccsim::
-Send {U+0227F + U+00338}
+Send {U+0227F}
+Send {U+00338}
 return
 
 :Zc?:\nprec::
@@ -2811,7 +2820,8 @@ Send {U+0228A}
 return
 
 :Zc?:\varsubsetneqq::
-Send {U+0228A + U+0FE00}
+Send {U+0228A}
+Send {U+0FE00}
 return
 
 :Zc?:\supsetneq::
@@ -2819,7 +2829,8 @@ Send {U+0228B}
 return
 
 :Zc?:\varsupsetneq::
-Send {U+0228B + U+0FE00}
+Send {U+0228B}
+Send {U+0FE00}
 return
 
 :Zc?:\cupdot::
@@ -2835,7 +2846,8 @@ Send {U+0228F}
 return
 
 :Zc?:\NotSquareSubset::
-Send {U+0228F + U+00338}
+Send {U+0228F}
+Send {U+00338}
 return
 
 :Zc?:\sqsupset::
@@ -2843,7 +2855,8 @@ Send {U+02290}
 return
 
 :Zc?:\NotSquareSuperset::
-Send {U+02290 + U+00338}
+Send {U+02290}
+Send {U+00338}
 return
 
 :Zc?:\sqsubseteq::
@@ -5239,7 +5252,8 @@ Send {U+029CF}
 return
 
 :Zc?:\NotLeftTriangleBar::
-Send {U+029CF + U+00338}
+Send {U+029CF}
+Send {U+00338}
 return
 
 :Zc?:\RightTriangleBar::
@@ -5247,7 +5261,8 @@ Send {U+029D0}
 return
 
 :Zc?:\NotRightTriangleBar::
-Send {U+029D0 + U+00338}
+Send {U+029D0}
+Send {U+00338}
 return
 
 :Zc?:\dualmap::
@@ -5747,7 +5762,8 @@ Send {U+02A7D}
 return
 
 :Zc?:\nleqslant::
-Send {U+02A7D + U+00338}
+Send {U+02A7D}
+Send {U+00338}
 return
 
 :Zc?:\geqslant::
@@ -5755,7 +5771,8 @@ Send {U+02A7E}
 return
 
 :Zc?:\ngeqslant::
-Send {U+02A7E + U+00338}
+Send {U+02A7E}
+Send {U+00338}
 return
 
 :Zc?:\lesdot::
@@ -5899,7 +5916,8 @@ Send {U+02AA1}
 return
 
 :Zc?:\NotNestedLessLess::
-Send {U+02AA1 + U+00338}
+Send {U+02AA1}
+Send {U+00338}
 return
 
 :Zc?:\NestedGreaterGreater::
@@ -5907,7 +5925,8 @@ Send {U+02AA2}
 return
 
 :Zc?:\NotNestedGreaterGreater::
-Send {U+02AA2 + U+00338}
+Send {U+02AA2}
+Send {U+00338}
 return
 
 :Zc?:\partialmeetcontraction::
@@ -5963,7 +5982,8 @@ Send {U+02AAF}
 return
 
 :Zc?:\npreceq::
-Send {U+02AAF + U+00338}
+Send {U+02AAF}
+Send {U+00338}
 return
 
 :Zc?:\succeq::
@@ -5971,7 +5991,8 @@ Send {U+02AB0}
 return
 
 :Zc?:\nsucceq::
-Send {U+02AB0 + U+00338}
+Send {U+02AB0}
+Send {U+00338}
 return
 
 :Zc?:\precneq::
@@ -6059,7 +6080,8 @@ Send {U+02AC5}
 return
 
 :Zc?:\nsubseteqq::
-Send {U+02AC5 + U+00338}
+Send {U+02AC5}
+Send {U+00338}
 return
 
 :Zc?:\supseteqq::
@@ -6067,7 +6089,8 @@ Send {U+02AC6}
 return
 
 :Zc?:\nsupseteqq::
-Send {U+02AC6 + U+00338}
+Send {U+02AC6}
+Send {U+00338}
 return
 
 :Zc?:\subsim::
@@ -17028,5 +17051,757 @@ return
 
 :Zc?:\dot{Z}::
 Send {U+0017B}
+return
+
+:Zc?:\mathcal{A} ::
+Send {U+1D49C}
+return
+
+:Zc?:\mathcal{B}::
+Send {U+0212C}
+return
+
+:Zc?:\mathcal{C} ::
+Send {U+1D49E}
+return
+
+:Zc?:\mathcal{D} ::
+Send {U+1D49F}
+return
+
+:Zc?:\mathcal{E}::
+Send {U+02130}
+return
+
+:Zc?:\mathcal{F}::
+Send {U+02131}
+return
+
+:Zc?:\mathcal{G} ::
+Send {U+1D4A2}
+return
+
+:Zc?:\mathcal{H}::
+Send {U+0210B}
+return
+
+:Zc?:\mathcal{I}::
+Send {U+02110}
+return
+
+:Zc?:\mathcal{J} ::
+Send {U+1D4A5}
+return
+
+:Zc?:\mathcal{K} ::
+Send {U+1D4A6}
+return
+
+:Zc?:\mathcal{L}::
+Send {U+02112}
+return
+
+:Zc?:\mathcal{M}::
+Send {U+02133}
+return
+
+:Zc?:\mathcal{N} ::
+Send {U+1D4A9}
+return
+
+:Zc?:\mathcal{O} ::
+Send {U+1D4AA}
+return
+
+:Zc?:\mathcal{P} ::
+Send {U+1D4AB}
+return
+
+:Zc?:\mathcal{Q} ::
+Send {U+1D4AC}
+return
+
+:Zc?:\mathcal{R}::
+Send {U+0211B}
+return
+
+:Zc?:\mathcal{S} ::
+Send {U+1D4AE}
+return
+
+:Zc?:\mathcal{T} ::
+Send {U+1D4AF}
+return
+
+:Zc?:\mathcal{U} ::
+Send {U+1D4B0}
+return
+
+:Zc?:\mathcal{V} ::
+Send {U+1D4B1}
+return
+
+:Zc?:\mathcal{W} ::
+Send {U+1D4B2}
+return
+
+:Zc?:\mathcal{X} ::
+Send {U+1D4B3}
+return
+
+:Zc?:\mathcal{Y} ::
+Send {U+1D4B4}
+return
+
+:Zc?:\mathcal{Z} ::
+Send {U+1D4B5}
+return
+
+:Zc?:\mathcal{a} ::
+Send {U+1D4B6}
+return
+
+:Zc?:\mathcal{b} ::
+Send {U+1D4B7}
+return
+
+:Zc?:\mathcal{c} ::
+Send {U+1D4B8}
+return
+
+:Zc?:\mathcal{d} ::
+Send {U+1D4B9}
+return
+
+:Zc?:\mathcal{e}::
+Send {U+0212F}
+return
+
+:Zc?:\mathcal{f} ::
+Send {U+1D4BB}
+return
+
+:Zc?:\mathcal{g}::
+Send {U+0210A}
+return
+
+:Zc?:\mathcal{h} ::
+Send {U+1D4BD}
+return
+
+:Zc?:\mathcal{i} ::
+Send {U+1D4BE}
+return
+
+:Zc?:\mathcal{j} ::
+Send {U+1D4BF}
+return
+
+:Zc?:\mathcal{k} ::
+Send {U+1D4C0}
+return
+
+:Zc?:\mathcal{l} ::
+Send {U+1D4C1}
+return
+
+:Zc?:\mathcal{m} ::
+Send {U+1D4C2}
+return
+
+:Zc?:\mathcal{n} ::
+Send {U+1D4C3}
+return
+
+:Zc?:\mathcal{o}::
+Send {U+02134}
+return
+
+:Zc?:\mathcal{p} ::
+Send {U+1D4C5}
+return
+
+:Zc?:\mathcal{q} ::
+Send {U+1D4C6}
+return
+
+:Zc?:\mathcal{r} ::
+Send {U+1D4C7}
+return
+
+:Zc?:\mathcal{s} ::
+Send {U+1D4C8}
+return
+
+:Zc?:\mathcal{t} ::
+Send {U+1D4C9}
+return
+
+:Zc?:\mathcal{u} ::
+Send {U+1D4CA}
+return
+
+:Zc?:\mathcal{v} ::
+Send {U+1D4CB}
+return
+
+:Zc?:\mathcal{w} ::
+Send {U+1D4CC}
+return
+
+:Zc?:\mathcal{x} ::
+Send {U+1D4CD}
+return
+
+:Zc?:\mathcal{y} ::
+Send {U+1D4CE}
+return
+
+:Zc?:\mathcal{z} ::
+Send {U+1D4CF}
+return
+
+:Zc?:\mathbb{A} ::
+Send {U+1D538}
+return
+
+:Zc?:\mathbb{B} ::
+Send {U+1D539}
+return
+
+:Zc?:\mathbb{C}::
+Send {U+02102}
+return
+
+:Zc?:\mathbb{D} ::
+Send {U+1D53B}
+return
+
+:Zc?:\mathbb{E} ::
+Send {U+1D53C}
+return
+
+:Zc?:\mathbb{F} ::
+Send {U+1D53D}
+return
+
+:Zc?:\mathbb{G} ::
+Send {U+1D53E}
+return
+
+:Zc?:\mathbb{H}::
+Send {U+0210D}
+return
+
+:Zc?:\mathbb{I} ::
+Send {U+1D540}
+return
+
+:Zc?:\mathbb{J} ::
+Send {U+1D541}
+return
+
+:Zc?:\mathbb{K} ::
+Send {U+1D542}
+return
+
+:Zc?:\mathbb{L} ::
+Send {U+1D543}
+return
+
+:Zc?:\mathbb{M} ::
+Send {U+1D544}
+return
+
+:Zc?:\mathbb{N}::
+Send {U+02115}
+return
+
+:Zc?:\mathbb{O} ::
+Send {U+1D546}
+return
+
+:Zc?:\mathbb{P}::
+Send {U+02119}
+return
+
+:Zc?:\mathbb{Q}::
+Send {U+0211A}
+return
+
+:Zc?:\mathbb{R}::
+Send {U+0211D}
+return
+
+:Zc?:\mathbb{S} ::
+Send {U+1D54A}
+return
+
+:Zc?:\mathbb{T} ::
+Send {U+1D54B}
+return
+
+:Zc?:\mathbb{U} ::
+Send {U+1D54C}
+return
+
+:Zc?:\mathbb{V} ::
+Send {U+1D54D}
+return
+
+:Zc?:\mathbb{W} ::
+Send {U+1D54E}
+return
+
+:Zc?:\mathbb{X} ::
+Send {U+1D54F}
+return
+
+:Zc?:\mathbb{Y} ::
+Send {U+1D550}
+return
+
+:Zc?:\mathbb{Z}::
+Send {U+02124}
+return
+
+:Zc?:\mathbb{a} ::
+Send {U+1D552}
+return
+
+:Zc?:\mathbb{b} ::
+Send {U+1D553}
+return
+
+:Zc?:\mathbb{c} ::
+Send {U+1D554}
+return
+
+:Zc?:\mathbb{d} ::
+Send {U+1D555}
+return
+
+:Zc?:\mathbb{e} ::
+Send {U+1D556}
+return
+
+:Zc?:\mathbb{f} ::
+Send {U+1D557}
+return
+
+:Zc?:\mathbb{g} ::
+Send {U+1D558}
+return
+
+:Zc?:\mathbb{h} ::
+Send {U+1D559}
+return
+
+:Zc?:\mathbb{i} ::
+Send {U+1D55A}
+return
+
+:Zc?:\mathbb{j} ::
+Send {U+1D55B}
+return
+
+:Zc?:\mathbb{k} ::
+Send {U+1D55C}
+return
+
+:Zc?:\mathbb{l} ::
+Send {U+1D55D}
+return
+
+:Zc?:\mathbb{m} ::
+Send {U+1D55E}
+return
+
+:Zc?:\mathbb{n} ::
+Send {U+1D55F}
+return
+
+:Zc?:\mathbb{o} ::
+Send {U+1D560}
+return
+
+:Zc?:\mathbb{p} ::
+Send {U+1D561}
+return
+
+:Zc?:\mathbb{q} ::
+Send {U+1D562}
+return
+
+:Zc?:\mathbb{r} ::
+Send {U+1D563}
+return
+
+:Zc?:\mathbb{s} ::
+Send {U+1D564}
+return
+
+:Zc?:\mathbb{t} ::
+Send {U+1D565}
+return
+
+:Zc?:\mathbb{u} ::
+Send {U+1D566}
+return
+
+:Zc?:\mathbb{v} ::
+Send {U+1D567}
+return
+
+:Zc?:\mathbb{w} ::
+Send {U+1D568}
+return
+
+:Zc?:\mathbb{x} ::
+Send {U+1D569}
+return
+
+:Zc?:\mathbb{y} ::
+Send {U+1D56A}
+return
+
+:Zc?:\mathbb{z} ::
+Send {U+1D56B}
+return
+
+:Zc?:\mathbb{0} ::
+Send {U+1D7D8}
+return
+
+:Zc?:\mathbb{1} ::
+Send {U+1D7D9}
+return
+
+:Zc?:\mathbb{2} ::
+Send {U+1D7DA}
+return
+
+:Zc?:\mathbb{3} ::
+Send {U+1D7DB}
+return
+
+:Zc?:\mathbb{4} ::
+Send {U+1D7DC}
+return
+
+:Zc?:\mathbb{5} ::
+Send {U+1D7DD}
+return
+
+:Zc?:\mathbb{6} ::
+Send {U+1D7DE}
+return
+
+:Zc?:\mathbb{7} ::
+Send {U+1D7DF}
+return
+
+:Zc?:\mathbb{8} ::
+Send {U+1D7E0}
+return
+
+:Zc?:\mathbb{9} ::
+Send {U+1D7E1}
+return
+
+:Zc?:\mathfrak{A} ::
+Send {U+1D504}
+return
+
+:Zc?:\mathfrak{B} ::
+Send {U+1D505}
+return
+
+:Zc?:\mathfrak{C}::
+Send {U+0212D}
+return
+
+:Zc?:\mathfrak{D} ::
+Send {U+1D507}
+return
+
+:Zc?:\mathfrak{E} ::
+Send {U+1D508}
+return
+
+:Zc?:\mathfrak{F} ::
+Send {U+1D509}
+return
+
+:Zc?:\mathfrak{G} ::
+Send {U+1D50A}
+return
+
+:Zc?:\mathfrak{H}::
+Send {U+0210C}
+return
+
+:Zc?:\mathfrak{I}::
+Send {U+02111}
+return
+
+:Zc?:\mathfrak{J} ::
+Send {U+1D50D}
+return
+
+:Zc?:\mathfrak{K} ::
+Send {U+1D50E}
+return
+
+:Zc?:\mathfrak{L} ::
+Send {U+1D50F}
+return
+
+:Zc?:\mathfrak{M} ::
+Send {U+1D510}
+return
+
+:Zc?:\mathfrak{N} ::
+Send {U+1D511}
+return
+
+:Zc?:\mathfrak{O} ::
+Send {U+1D512}
+return
+
+:Zc?:\mathfrak{P} ::
+Send {U+1D513}
+return
+
+:Zc?:\mathfrak{Q} ::
+Send {U+1D514}
+return
+
+:Zc?:\mathfrak{R}::
+Send {U+0211C}
+return
+
+:Zc?:\mathfrak{S} ::
+Send {U+1D516}
+return
+
+:Zc?:\mathfrak{T} ::
+Send {U+1D517}
+return
+
+:Zc?:\mathfrak{U} ::
+Send {U+1D518}
+return
+
+:Zc?:\mathfrak{V} ::
+Send {U+1D519}
+return
+
+:Zc?:\mathfrak{W} ::
+Send {U+1D51A}
+return
+
+:Zc?:\mathfrak{X} ::
+Send {U+1D51B}
+return
+
+:Zc?:\mathfrak{Y} ::
+Send {U+1D51C}
+return
+
+:Zc?:\mathfrak{Z}::
+Send {U+02128}
+return
+
+:Zc?:\mathfrak{a} ::
+Send {U+1D51E}
+return
+
+:Zc?:\mathfrak{b} ::
+Send {U+1D51F}
+return
+
+:Zc?:\mathfrak{c} ::
+Send {U+1D520}
+return
+
+:Zc?:\mathfrak{d} ::
+Send {U+1D521}
+return
+
+:Zc?:\mathfrak{e} ::
+Send {U+1D522}
+return
+
+:Zc?:\mathfrak{f} ::
+Send {U+1D523}
+return
+
+:Zc?:\mathfrak{g} ::
+Send {U+1D524}
+return
+
+:Zc?:\mathfrak{h} ::
+Send {U+1D525}
+return
+
+:Zc?:\mathfrak{i} ::
+Send {U+1D526}
+return
+
+:Zc?:\mathfrak{j} ::
+Send {U+1D527}
+return
+
+:Zc?:\mathfrak{k} ::
+Send {U+1D528}
+return
+
+:Zc?:\mathfrak{l} ::
+Send {U+1D529}
+return
+
+:Zc?:\mathfrak{m} ::
+Send {U+1D52A}
+return
+
+:Zc?:\mathfrak{n} ::
+Send {U+1D52B}
+return
+
+:Zc?:\mathfrak{o} ::
+Send {U+1D52C}
+return
+
+:Zc?:\mathfrak{p} ::
+Send {U+1D52D}
+return
+
+:Zc?:\mathfrak{q} ::
+Send {U+1D52E}
+return
+
+:Zc?:\mathfrak{r} ::
+Send {U+1D52F}
+return
+
+:Zc?:\mathfrak{s} ::
+Send {U+1D530}
+return
+
+:Zc?:\mathfrak{t} ::
+Send {U+1D531}
+return
+
+:Zc?:\mathfrak{u} ::
+Send {U+1D532}
+return
+
+:Zc?:\mathfrak{v} ::
+Send {U+1D533}
+return
+
+:Zc?:\mathfrak{w} ::
+Send {U+1D534}
+return
+
+:Zc?:\mathfrak{x} ::
+Send {U+1D535}
+return
+
+:Zc?:\mathfrak{y} ::
+Send {U+1D536}
+return
+
+:Zc?:\mathfrak{z} ::
+Send {U+1D537}
+return
+
+:Zc?:\not\approx::
+Send {U+02249}
+return
+
+:Zc?:\not\equiv::
+Send {U+02262}
+return
+
+:Zc?:\not\subset::
+Send {U+02284}
+return
+
+:Zc?:\not\subseteq::
+Send {U+02288}
+return
+
+:Zc?:\not\supset::
+Send {U+02285}
+return
+
+:Zc?:\not\supseteq::
+Send {U+02289}
+return
+
+:Zc?:\not\in::
+Send {U+02209}
+return
+
+:Zc?:\not\ni::
+Send {U+0220C}
+return
+
+:Zc?:\not<::
+Send {U+0226E}
+return
+
+:Zc?:\not>::
+Send {U+0226F}
+return
+
+:Zc?:\not\le::
+Send {U+02270}
+return
+
+:Zc?:\not\ge::
+Send {U+02271}
+return
+
+:Zc?:\not\gtrless::
+Send {U+02279}
+return
+
+:Zc?:\not\sim::
+Send {U+02244}
+return
+
+:Zc?:\not\cong::
+Send {U+02247}
+return
+
+:Zc?:\not\vdash::
+Send {U+022AC}
+return
+
+:Zc?:\not\models::
+Send {U+022AD}
+return
+
+:Zc?:\not\Vdash::
+Send {U+022AE}
+return
+
+:Zc?:\not\sqsubseteq::
+Send {U+022E2}
+return
+
+:Zc?:\not\sqsupseteq::
+Send {U+022E3}
+return
+
+:Zc?:\subsetneq::
+Send {U+0228A}
+return
+
+:Zc?:\supsetneq::
+Send {U+0228B}
 return
 
